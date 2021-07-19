@@ -1,6 +1,5 @@
 
 # **Express.js Note Taker**
-undefined
 ## Description 
 An app that can take notes created using Express.js
 ## Table of contents
