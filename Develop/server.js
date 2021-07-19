@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 8080;
 // Set up body parsing, static, and route middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static("public"));
+app.use(express.static("docs"));
 app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
 
