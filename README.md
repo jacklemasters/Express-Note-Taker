@@ -16,7 +16,6 @@ Open console and run npm i to install modules before using the note taker
 ## Usage
 This project can be used to easily create and save notes.
 ## Licence
-MIT
 ## Contributors
 Jack LeMasters
 ## Test
